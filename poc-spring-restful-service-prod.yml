@@ -32,6 +32,3 @@ management:
   endpoint:
     health:
       show-details: always
-
-application:
-	url: http://prod
