@@ -28,6 +28,7 @@ management:
     web:
       exposure:
         include: health,info
+      base-path: /monitor
 
   endpoint:
     health:
